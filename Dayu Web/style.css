@@ -19,6 +19,13 @@ main {
     height:800px;
     top: 0;
 }
+.topnav{
+    background-color: peachpuff;
+    display: block;
+    padding: 20px;
+    width: 100%;
+    margin: auto;
+}
 .square{
     background-color: salmon;
     height: 100px;
@@ -42,5 +49,4 @@ main {
 }
 .c {
     position: inline-block;
-
 }
