@@ -21,7 +21,8 @@ main {
 }
 .topnav{
     background-color: peachpuff;
-    display: block;
+    display: grid;
+    grid-template-rows:100%;
     padding: 20px;
     width: 100%;
     margin: auto;
